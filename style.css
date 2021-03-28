@@ -3,28 +3,30 @@ body {
     font-family:Arial;
     color:white;
     }
-h1{
+
+h1  {
     color:grey;
     font-family:Verdana;
     }
-.maindiv {
+
+    .maindiv {
     background-color:white;
     color:black;
     width:  500px;
     padding: 20px;
     border-radius: 25px;
     margin: 0 auto;
-}
+    }
 
 .row {
     padding: 0 0 15px 90px;
-}
+    }
 
 .highlight {
     background-color: yellow;
-}
+    }
 
 label {
     display: inline-block;
-    width: 30%;
-}
+    width: 25%;
+    }
