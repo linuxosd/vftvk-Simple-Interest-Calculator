@@ -18,6 +18,9 @@ h1 {
     align-content: center;
 }
 
+.highlight {
+    background-color: yellow;
+}
 
 label {
     display: inline-block;
